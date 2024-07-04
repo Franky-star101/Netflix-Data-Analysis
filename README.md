@@ -1,1 +1,2 @@
-# Netflix-Title
+# Netflix Case Study
+
