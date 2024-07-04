@@ -1,10 +1,8 @@
-# Netflix Case Study
-
-## Netflix Analysis [(Here)](https://colab.research.google.com/drive/17YYnWqcfv7wuRzRQ3POU3OBvwtAVvGxi?usp=sharing)
+# Netflix Case Study [(Here)](https://colab.research.google.com/drive/17YYnWqcfv7wuRzRQ3POU3OBvwtAVvGxi?usp=sharing)
 
 ### Project Overview
 
-This is a project i did during my final project while studying data analysis at Sigma Academy. The Netflix dataset provides a comprehensive overview of media content available on the platform. This project was achieved using python. 
+This is a project i did during my final project while studying data analysis at Sigma Academy. The Netflix dataset provides a comprehensive overview of media content available on the platform. This project was achieved using Jupiter notebooks. 
 
 #### Objective:  
 To analyze the distribution and trends of media content on Netflix, focusing on content ratings, country of origin, and release year data to provide insights into Netflix's content strategy and audience preferences.
